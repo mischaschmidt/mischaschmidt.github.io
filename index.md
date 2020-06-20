@@ -14,4 +14,4 @@ Tony Stark quote:
 
 > Sometimes you gotta run before you walk
 
-<img src="https://en.wikipedia.org/wiki/File:Robert_Downey_Jr._as_Iron_Man_in_Avengers_Infinity_War.jpg"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Robert_Downey_Jr._as_Iron_Man_in_Avengers_Infinity_War.jpg"/>
