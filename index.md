@@ -9,3 +9,7 @@ Anthony Edward Stark is a fictional character portrayed by Robert Downey Jr. in 
 * Geek
 * Loving Father
 * Leader
+
+Tony Stark quote:
+
+> Sometimes you gotta run before you walk
