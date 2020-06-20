@@ -8,3 +8,4 @@ Anthony Edward Stark is a fictional character portrayed by Robert Downey Jr. in 
 * Egomaniac
 * Geek
 * Loving Father
+* Leader
